@@ -76,6 +76,8 @@ Start the development server:
    
 <http://127.0.0.1:8000/admin/>
 
+<http://127.0.0.1:8000/api/products/>
+
 
 ### Creating Models
 1. Models define the data structure for your application. 
