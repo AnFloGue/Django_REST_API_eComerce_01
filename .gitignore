@@ -1,3 +1,23 @@
-myenv/
-eshop/eshop/.env
-eComerceShop/eComerceShop/.env
+# Ignore all files and directories
+*
+
+# Allow specific directories and files
+!eComerceShop/
+!eComerceShop/__init__.py
+!eComerceShop/asgi.py
+!eComerceShop/settings.py
+!eComerceShop/urls.py
+!eComerceShop/wsgi.py
+!eComerceShop/product/
+!eComerceShop/product/migrations/
+!eComerceShop/product/__init__.py
+!eComerceShop/product/admin.py
+!eComerceShop/product/apps.py
+!eComerceShop/product/models.py
+!eComerceShop/product/tests.py
+!eComerceShop/product/urls.py
+!eComerceShop/product/views.py
+!manage.py
+!.gitignore
+!README_02.md
+!requirements.txt
